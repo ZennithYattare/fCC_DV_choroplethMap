@@ -11,4 +11,5 @@ GitHub Pages:
 -   [D3.js](https://d3js.org/)
 -   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 -   [Tailwind CSS](https://tailwindcss.com/docs/installation)
+-   [TopoJSON Client](https://www.npmjs.com/package/topojson-client)
 -   [Vite](https://vitejs.dev/guide/)

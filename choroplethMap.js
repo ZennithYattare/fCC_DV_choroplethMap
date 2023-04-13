@@ -68,7 +68,8 @@ export async function choroplethMap() {
 		.style("border", "solid")
 		.style("border-width", "2px")
 		.style("border-radius", "3px")
-		.style("padding", "3px");
+		.style("padding", "3px")
+		.style("position", "absolute");
 
 	const legend = d3
 		.select("#choropleth-map")
